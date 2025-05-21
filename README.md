@@ -1,3 +1,3 @@
-# FEM & CFD
-All my FEM & CFD projects and training
-> Here is the wiki: <https://github.com/AstroStan/FEM---CFD/wiki>
+# FEA & CFD
+All my FEA & CFD projects and training
+> Here is the wiki: <https://github.com/AstroStan/FEA---CFD/wiki>
